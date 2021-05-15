@@ -1,2 +1,2 @@
 # DOE
-Projeto resultado da MaratonaDev 3.0
+Um sistema de cadastro de doadores de sangue. Aplicação web criada a partir da 3ª MaratonaDev da Rocketseat.
