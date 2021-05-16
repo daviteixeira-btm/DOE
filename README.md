@@ -52,7 +52,22 @@ $ npm init
 $ ...
 
 # Tudo pronto para iniciar a aplicação web
+```
+### Docker Postgrees
+```bash
+docker run --name some-postgres -e POSTGRES_PASSWORD=1234 -d postgres
+```
 
+### SQL
+```sql
+
+CREATE TABLE public.donors (
+	id int4 NOT NULL,
+	"name" varchar(250) NULL,
+	email varchar(250) NULL,
+	blood varchar(250) NULL,
+	CONSTRAINT donors_pk PRIMARY KEY (id)
+);
 ```
 ## 🤔 Como contribuir
 
