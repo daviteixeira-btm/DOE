@@ -1,5 +1,5 @@
 <h1 align="center">
-  DOE ❤️
+  <img src="public/img/Logo-with-phrase.png" align="center" alt="Web aplication DOE">
 </h1>
 
 <p align="center">
@@ -24,7 +24,7 @@
   <a href="#-license">License</a>
 </p>
 
-<img src="public/img/logo.png" width="100%" align="center" alt="Web aplication DOE">
+<img src="public/img/presentation-on-devices-DOE.png" align="center" alt="Web aplication DOE">
 
 ## 👨🏻‍💻 Sobre o projeto
 <p>
