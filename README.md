@@ -33,8 +33,12 @@
 
 ## 🚀 Tecnologias
 
-- [Bootstrap](https://getbootstrap.com/)
-- [Sass](https://sass-lang.com/)
+- [Express](https://expressjs.com/pt-br/)
+- [NodeJs](https://nodejs.org/en/)
+- [Nodemon](https://www.npmjs.com/package/nodemon)
+- [Nunjucks](https://mozilla.github.io/nunjucks/)
+- [PostgreSQL](https://www.postgresql.org/)
+- [Postbird](https://www.electronjs.org/apps/postbird)
 
 ## 💻 Instalação, execução e desenvolvimento
 
@@ -46,18 +50,14 @@
 ```bash
 # Instale as dependências
 $ npm install
-$ npm init
-
-# Instale o Sass
-$ ...
 
 # Tudo pronto para iniciar a aplicação web
+$ npm start
 ```
 ### Docker Postgrees
 ```bash
 docker run --name some-postgres -e POSTGRES_PASSWORD=1234 -d postgres
 ```
-
 ### SQL
 ```sql
 
@@ -96,6 +96,6 @@ Esse projeto possui uma Licensa MIT License - veja o arquivo [LICENSE](./LICENSE
 
 <div align="center">
 
-Feito com ❤️
+Feito com ❤️ por Davi Teixeira
 
 </div>
